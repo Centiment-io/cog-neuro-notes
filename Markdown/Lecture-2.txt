@@ -1,0 +1,65 @@
+###Lecture 2
+
+Read chapter 2, especially pages 38-59
+
+---
+
+####Introduction and Orienting
+
+- The brain is organized at multiple scales
+	- Neurons
+	- Columns and Layers
+	- Maps
+	- Areas
+- Numbers in the brain (rough estimates!)
+	- \# of neurons in adult brain = 8x10^10 (80 billion)
+	- \# of neurons in adult cerebral cortex = 1.8x10^10
+	- \# of synapses on typical cortical neuron = 6x10^3
+	- \# of cortical columns = 1x10^5
+	- Average loss of cortical neurons = 1/second
+	- Total surface area of cerebral cortex = 2.5x10^3 cm^3
+	- Thickness of cerebral cortex = 1.5-4mm
+	- \# of cortical areas = 400 (???)
+- Brain size varies with body size
+- The neuraxis of the human brain
+	- Front = Anterior or Rostral
+	- Back = Posterior or Caudal
+	- Up = Dorsal
+	- Down = Ventral
+- Planes of transection for the human brain
+	- Horizontal: up-down
+	- Sagittal: left-right
+	- Coronal: front-back
+
+####Cortical anatomy and brain flattening
+
+- Cerebral cortex versus cerebrum
+	- **Cerebral Cortex**: The outermost later of gray matter making up the superficial aspect of the cerebrum
+	- **Grey matter**: cell bodies
+	- **White matter**: axons -> connects everything together
+		- Several long tracts
+		- Short tracts
+		- Long projection fibers
+- Korbinian Brodmann's map (52 areas)
+- Dedicated sensory and motor areas & systems
+	- Gustatory
+	- Motor: Frontal cortex (near central sulcus)
+	- Somatosensory: Parietal cortex (near central sulcus)
+	- Olfactory
+	- Auditory: Superior aspect of the temporal lobe (near the Sylvian fissue)
+	- Visual: Occipital lobe
+		- Primary visual cortex (V1)
+		- Receives visual input from the Thalamus
+
+#####Cortical areas involved in "higher cognition"
+- Dorsolateral prefrontal cortex
+- Orbitofrontal cortex
+- Ventrolateral prefrontal cortex
+
+
+#####An interactive brain viewer
+http://gallantlab.org/brainviewer/sulcigyri/
+
+
+
+#####Auditory cortex

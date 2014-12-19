@@ -1,0 +1,14 @@
+
+- Goal: object recognition
+- Extract features from visual field
+- Low-level
+	- Edges -> Contours -> Shapes
+- Pathway
+	- Receptors -> Retinal ganglion cells -> Thalamus (LGN) -> V1
+- V1
+	- Finding edges
+- V2
+	- Contours
+- Higher
+	- Silhouettes
+	- Shapes

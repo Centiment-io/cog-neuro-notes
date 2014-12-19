@@ -1,0 +1,62 @@
+###Lecture 12
+
+- Attention effects on cortical representations
+- Attentional changes in baseline, gain and tuning
+- Evidence that attention changes representations
+
+---
+
+#### Cognitive Theories of Attention
+#####Classical thought and attention
+- Aristotle: is it possible or not that one should be able to perceive two objects simultaneously in the same individual time?
+- Lucretius: things are not seen sharply 'save those for which the mind has prepared itself
+
+#####Psychology and attention
+- More concrete and measurable phenomena
+- James (1890): Everyone knows what attention is. It is the taking possession by the mind, in clear and vivid dorm, of one out of what seems several simultaneously possible objects or trains of thought.
+- Anderson (2011): The Bifurcation of Attention
+
+####Behavioral Studies of Attention
+#####Early vs. late selection
+1) Sensory inputs  
+- Early selection  
+	2) Registration  
+	3) Perceptual analysis  
+- Late selection  
+	4) Semantic encoding/analysis  
+	5) Executive functions  
+	6) Decisions, memory, etc.  
+7) Response
+
+#####Auditory attention - Cocktail party effect
+- Dichotic listening task
+	- Identical stimulation
+		- Can choose between left and right
+
+#####Exogenous vs. endogenous attention
+- Voluntary vs involuntary
+- Top-down vs bottom-up
+- Reaction times for expected locations are significantly faster than those for unexpected (invalid) and neutral locations
+- Inhibition of return
+	- If delay between cue and stimulus increases, reaction time increases
+
+#####Visual search
+- When looking for objects in the environment there's a lot of clutter
+- If multiple features, more time to process
+- Conjunction search
+	- Reaction time increases proportional to set size
+- Pop-out search
+	- Constant
+
+####Brain Disorder and Attention
+#####Unilateral Spatial Neglect
+- Half of the visual field not seen
+- Damage to the right hemisphere (parietal)
+
+#####Extinction of Acquired Brain Injury
+- Failure to perceive or act upon stimuli that are contralateral of the lesion
+
+#####Balint's Syndrome
+- Inability to perceive multiple objects in space
+- Difficulty reaching in space for objets because they can't attend to peripheral space
+- Damage to the posterior parietal and occipital cortices

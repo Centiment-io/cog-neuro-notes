@@ -1,0 +1,45 @@
+###Lecture 11
+
+####Important concepts in the attention literature
+- Useful distinctions
+	- Endogenous (voluntary) vs. exogenous (involuntary) attention
+	- Spatial attention vs. feature-based attention vs. object-based attention
+	- Early vs. late selection
+- Attention phenomena of great experimental interest
+	- Vigilance
+	- The cocktail party effect
+	- Discrimination and detection threshold
+	- Visual search
+	- Inhibition of return
+
+---
+
+####Attention as a system for routing information
+- On a short time scale the wiring of the brain is fixed
+- Therefore, any changes in cognitive state must be accomplished by changing the information that is represented in various brain areas, by changing the way that information is routed and pooled across the brain
+- Local mechanisms that could alter circuit properties
+	- Fast modulation of synaptic weights
+	- Use of feedback circuits to change feedforward weights
+	- Use of control lines to change feedforward weights
+	- Some other mysterious dynamical circuit magic
+- Global mechanisms that could alter circuit properties
+	- Oscillations (Gamma band activity changes)
+	- Cortico-thalamic circuits that **modulate** cortico-cortical circuits
+
+####Attention might change neuronal baseline or gain
+- Filter bank (dot product) filters stimulus
+- (Attentional gain change in filter bank) x stimulus consistent
+	- Like a double multiplication
+- You can change the gain or the baseline
+
+####Attention might change neuronal tuning
+
+####Gain changes at one level would change tuning at subsequent levels
+- Tuning shifts
+
+---
+
+####Spatial attention can shift receptive fields
+- Spatial maps changes with shifts in spatial attention
+
+####Attentional warping of the semantic space

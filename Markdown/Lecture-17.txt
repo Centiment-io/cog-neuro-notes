@@ -1,0 +1,97 @@
+###Lecture 17
+
+####Memory loss associated with the MTL
+- Medial temporal lobe, hippocampus and surrounding structures
+	- Encoding disorders, patients can't form new long-term memories: **Anterograde amnesia**
+	- Most severe forms of long-term memory loss occur when both hippocampus and surrounding structures are affected
+	- Parahippocampal and perihinal cortex lesions affect long-term memory, but entorhinal cortex lesions have much less adverse effects
+	- Some forms of procedural memory may be spared as long as basal ganglia and cerebellum are intact
+
+####The hippocampus is activated during encoding
+- Experimental design
+	- Memory and recall
+	- Given a word, blank period, and then queue to decide whether the word was in the screen or not
+	- Depending on the color of the word you need to decide on color or animacy
+	- Whether you saw the word, and how confident you are
+- Behavioral results
+	- People have memory on both what and when they saw something
+- Encoding, storage and retrieval with MRI
+- Two regions: 
+	- Posterior hippocampus
+	- Posterior parahippocampal/fusiform gyrus
+- During encoding phase, when there is a greater activation of those areas then you are more likely to remember that information
+
+####The hippocampus is activated during retrieval
+- Memory and recall task similar to previous one
+- In this case, measuring brain activity during retrieval phase
+- 4 conditions
+	- Correct R: correctly recollect item and when
+	- Correct K: correctly recollect item but lost episodic tag
+	- Correct rejection: correctly recalled that didn't see it
+	- Miss
+- Basis for the argument that the hippocampus is critically involved in encoding and recording episodic memories
+
+####Perirhinal cortex is activated during recall of familiar events
+- Systematic relationship between the BOLD signal and confidence level in judgements on whether you say the item or not
+- When the perirhinal region is active, there is more information available on whether you saw the item and when
+- No clear distinction between hippocampus and parahippocampal regions
+	- Structures directly feed to each other
+	- Difficult to dissociate them
+
+####Memories involving MTL versus not
+- Memory not involving MTL
+	- Unidimensional
+	- Representation is highly localized in brain
+	- Outside awareness: implicit
+	- Procedural memory?
+- Memory involving MTL
+	- Can be multidimensional (e.g., context)
+	- Representation can be distributed over multiple locations in brain
+	- Often accessible to awareness
+
+####MTL and memory consolidation
+One possibility is that MTL (and in particular the hippocampus) is part of a network for developing associations between representations in different cortical areas
+
+####Implications for consolidation in MTL
+- Retrograde and anterograde amnesia can be dissociated
+- The hippocampus may be critical for initial episodic encoding, but later reactivation makes memories more semantic and less dependent on hippocampus
+- MTL lesions should not affect memories that are stored within a single cortical region, so they will not affect priming and procedural skill learning
+- MTL lesions should affect contextual memories, including implicit learning that depends on context
+
+####The case of HM
+- Bilateral resection of MTL
+- No significant changes in language, personality, general cognitive abilities
+- Little evidence of retrograde amnesia
+- Severe anterograde amnesia. Did not remember researchers after continua testing over 50 years, did not remember death of father
+- Short term memory with rehearsal relatively spared
+- Some anterograde procedural memory/learning remained
+- Procedural memory
+	- HM had some residual procedural memory, though he had no recollection of having learned the procedure. He also had some ability to learn new declarative concepts (e.g., world events), though again w/o episodic tags
+
+####Korsakoff's syndrome
+- Caused by lack of thiamine (vitamin B1) in the brain, usually brought on by alcoholism or severe malnutrition
+- This causes metabolic damage to medial thalamus, mammillary bodies and posterior hypothalamus
+- Often accompanied by Wernicke's encephalotopathy (not Wernicke's aphasia)
+- Results in severe anterograde amnesia moderate retrograde amnesia, confabulation, apathy, lack of insight
+
+---
+
+####The frontal and parietal cortex and memory
+
+####Memory loss caused by cortical lesions
+- Cerebral cortex
+	- Deficits in attention, short-term memory, working memory and many other cognitive functions
+	- Lesions of left hemisphere supramarginal gyrus (BA40) or left premotor cortex (BA44) have deficits in phonological working memory
+	- **copy from slides**
+
+####Alzheimer's brain showing extensive atrophy
+- Building up globs of protein that is not cleared from the brain and forms amyloid plaques and neurofibrillary tangles
+- Alzheimer's brain distribution of amyloid plaques
+	- PET study using PIB, which binds to amyloid plaques
+
+####Frontal cortex and memory encoding & retrieval
+- The role of frontal cortex (and left vs. right FC) in memory is still under debate
+- Many studies argue left FC is involved in encoding, right FC in retrieval
+- However, this may be due to the type of information used in these studies
+
+####A BCI for memory

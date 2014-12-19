@@ -1,0 +1,64 @@
+###Lecture 25
+
+####Classification, identification and reconstruction
+- Stimulus representation
+	- Pixel luminance
+	- Local contrast
+	- Object categories
+	- Grating orientations
+	- Semantics
+- Type of brain activity
+	- Neurons
+	- Voxels
+- Domains of decoding
+	- Perceptual decoding
+	- Cognitive decoding
+	- Motor decoding (opposite of perceptual)
+- Types of decoding
+	- Classification
+		- Object class to which individual exemplars may belong
+	- Identification
+		- Decoding very specific face
+	- Reconstruction
+
+####Encoding vs decoding
+Encoding and decoding are scientifically equivalent EXCEPT that you cannot estimate the noise ceiling for a decoder
+
+---
+
+####Encoding, decoding and optimization
+- The encoding model
+- The decoding model
+	- Platonic ideal cause we don't know the perfect encoder
+- Optimization/estimation
+
+####Decoding: Identification
+- Very precise symmetry between identification and reconstruction
+
+####Importance of the prior
+Prior that is a 1/f distribution of Gabor functions (sparse Gabor prior)
+
+####Models can be combined to improve decoding
+- Different brain areas represent different things
+- Decode only from PVC very bad (structural model)
+- Decode from PVC image edges, and then higher areas for semantic (semantic + structural)
+
+####Motion-energy decoding (early vision)
+- Direct decoding: bad
+- Prior: 5000 of natural video 
+- MAP: highest probability video clip
+- AHP: average high posterior
+
+####LDA scene decoding (higher vision)
+- Used in NLP
+- Method for finding the intrinsic topic structure, knowing nothing about the content
+- Use the same for natural images: label all the objects in the images
+
+---
+
+####Decoding and reconstructing visual imagery
+- 
+
+####Questions
+- Do you think consciousness is an emerging property of the structure of the brain
+- Is your validation set of size 1

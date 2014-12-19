@@ -1,0 +1,38 @@
+###Lecture-7
+	Artist: Oblivion idiot
+
+---
+####Gustatory System
+- Taste receptors
+	- Circumvallate papillae
+	- Foliate papillae
+	- Fungiform papillae
+- Tastes
+	- Salty
+	- Sweet
+	- Sour
+	- Bitter
+	- Umami
+- Pathway
+	- Taste receptor cells
+	- Nucleus of the solitary tract
+	- Thalamus
+	- Taste zone of cortex (where?)
+
+####Somatosensory System
+- Receptors
+	- Pacinian corpuscle
+	- Ruffini corpuscle
+	- Merkel's cell
+	- Meissner's corpuscle
+- Pathway
+- Touch receptors
+- spinal cords
+- Medulla
+- Thalamus
+- Primary somatosensory cortex
+
+####Auditory transduction
+- Outer ear
+- Middle ear
+- Inner ear

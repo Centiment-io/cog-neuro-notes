@@ -1,0 +1,107 @@
+###Lecture 5
+	- EEG, MEG and ECOG
+	- PET
+	- fMRI and fNIRS
+	- TMS
+	- Behavior
+
+---
+
+####EEG: Electroencephalography
+- Advantages
+	- Relatively simple and cheap
+	- Good temporal resolution
+	- Measures neural activity
+	- Inherently 2D
+- Disadvantages
+	- Poor signal quality
+	- Poor spatial resolution (> 1cm)
+	- Neural activity measure is biased
+	- Distortion contaminates and signals
+
+**Inverse problem**: go from 2D to 3D
+
+####ECoG: Electrocorticography
+- Advantages
+	- Relatively good signal quality
+	- Good temporal resolution
+	- Measures neural activity
+	- Inherently 2D
+- Disadvantages
+	- Invasive, requires craniotomy
+	- Currently old recording technology
+	- Neural activity measure is biased
+	- Patients often do not perform well
+
+####MEG: Magnetoencephalography
+- Advantages
+	- Better signal quality than EEG
+	- Good temporal resolution
+	- Measures neural activity
+	- Inherently 2D
+- Disadvantages
+	- Expensive
+	- Poor spatial resolution (~8mm?)
+	- Neural activity measure is biased
+
+####PET: Positron Emission Tomography
+- Advantages
+	- Relatively simple and cheap
+	- Good temporal resolution
+	- Tomographic (2D slice)
+- Disadvantages
+	- Poor signal quality
+	- Poor spatial resolution (> 1cm)
+	- Probably really bad for you
+
+####fMRI: Functional Magnetic Resonance Imaging
+- Advantages
+	- Good spatial resolution (~3mm)
+	- Inherently 3D
+	- In continuous development
+- Disadvantages
+	- Very expensive & complicated
+	- Poor temporal resolution (>1s)
+	- Does not measure neural activity
+
+dMRI: Diffusion imaging tracks water (along axons)
+
+####NIRS: Near-infrared spectroscopy
+- Advantages
+	- Cheaper than fMRI
+	- Portable
+- Disadvantages
+	- Poor signal quality
+	- Bad spatial resolution (>2cm?)
+	- Doesn't measure neural activity
+	- Inherently 2D
+
+####NIRS-DOT: Diffuse Optical Tomography
+- Advantages
+	- Better spatial resolution than NIRS
+	- Tomographic (recovers 3D)
+- Disadvantages
+	- Poor signal quality
+	- Poor spatial resolution (>8mm?)
+	- Expensive, complicated
+
+####TMS: Transcranial Magnetic Stimulation
+- Advantages
+	- Not merely correlational
+	- Relatively cheap
+- Disadvantages
+	- Like being hit with a hammer
+	- Bad spatial resolution (>3cm)
+	- Inherently 2D
+	- Difficult to localize
+
+####Behavior
+- Advantages
+	- Measures what we want to explain
+	- Relatively cheap and easy
+	- **Low-tech**
+- Disadvantages
+	- Low bandwidth
+	- Interpretation usually ambiguous
+	- Difficult to identify mechanism
+	- Operational definitions are poor

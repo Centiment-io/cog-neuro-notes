@@ -1,0 +1,78 @@
+###Lecture 14
+
+####Anatomical organization of the motor system
+- Premotor and supplementary motor cortex regions
+	- Learning?
+	- Integrating motor & other systems
+- Cerebellum
+	- Integration of feedback
+	- Timing of motor movements
+	- Learning
+- Basal ganglia
+	- Selection/initiation of actions
+- Motor cortex
+	- Planning motor cortex
+- Brainstem
+- Spinal cord
+	- Reflex arc
+	- Rhythmic movements
+
+####Pyramidal and extrapyramidal tracts
+- The brain innervates the spinal cord via the pyramidal and extrapyramidal tracts
+- The pyramidal tract is also called the corticospinal tract
+
+####Basal ganglia and cerebellum
+- The basal ganglia and the cerebellum are two prominent subcortical components of the motor pathways
+
+####Cerebellum
+- Motor execution
+- Motor planning
+- Balance and eye movements
+- Not well imaged structure
+- Ipsilateral control
+
+####Basal ganglia
+- The basal ganglia consists of 5 motor-related nuclei
+	- Striatum (Caudate & Putamen)
+	- Globus pallidus
+	- Substantia Nigra
+		- Parkinson's
+		- Dopaminergic neurons
+	- Subthalmic nucleus
+	- The basal ganglia appear to act in opposition to cortex
+
+####Motor-related areas of cortex
+- Motor cortex: Planning, control & ec
+
+####Functional organization of the motor system
+- The motor system is composed of many, anatomically distributed components
+- Some of these components are cortical, many are subcortical
+- The distributed components operate hierarchically and in parallel
+
+####The endpoint selection hypothesis of movement control
+- One of the classic questions in motor system is **what the heck is motor cortex doing? What information is represented in motor cortex?**
+- Seems unlikely there is a linear relationship between motor cortex and muscle movements
+- One theory: motor goal, not how to achieve motor goal
+
+####Disorders of the motor system
+- Spinal cord
+	- Paraplegic: paralysis of lower limbs
+	- Quadraplegic: paralysis of all limbs
+- Motor cortex
+	- Hemiplegia: paralysis of contralateral limbs
+	- Hemiparesis: weakness or impaired control of contralateral limbs
+- Secondary/association motor areas
+	- Apraxia: loss of ability to generate coordinated actions, but not due to loss of muscle control
+	- Ideomotor: difficulty in carrying out motor commands and sequential actions
+	- Ideational: loss of knowledge about actions
+- Parkinson's (substantia nigra): Resting tremor and loss of fine motor movements
+- Cerebellum
+	- Ataxia: poor coordination of distal limb movements and poor use of motor feedback
+	- More diffuse impairment of cognitive functions: timing, number related functions
+
+####Effects of corpus callosum resection
+- People with normal connected hemispheres have a very hard time drawing perpendicular axis
+- People with callosotomy are really good at this
+
+####Parkinson's disease
+- Parkinson's is caused by loss of dopaminergic neurons in substantia nigra

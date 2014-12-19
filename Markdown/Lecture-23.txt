@@ -1,0 +1,48 @@
+##Lecture 23
+
+---
+
+####The concept of lateralization
+
+####The corpus callosum connects the hemispheres
+- Variety of projections
+	- Contraleteral
+		- Homotopic
+		- Heterotopic
+	- Ipsilateral
+- Complications: homotopic versus heterotopic connections, alternative pathways for communications (e.g., anterior and posterior commisures)
+
+####Fiber tractography of the corpus callosum
+- DTI
+	- Blue: corpus callosum
+
+####Posterior and anterior commisures
+- Smaller fiber tracts
+- Split brain patients
+	- One of the four only nobel prizes in structural neuroscience
+
+---
+
+####Split brain patient studies and hemispheric specialization in the human brain
+
+####Hemispheric processing in split brain patients
+- **Fixation control**
+- Normal brain
+	- Right-hemisphere stimulus
+	- Left-hemisphere processes it
+	- Information sent to left-hemisphere and verbal response produced
+- Partial split
+- Complete split
+
+####Hemisphere bias for local or global information
+- Letters made up of little letters
+- What was the small/big letter?
+- Spatial frequency: a Fourier domain, property of visual stimuli
+- Right: visual, left: language
+
+####Hemispheric characteristics
+- Hemispheres may be in cooperation or competition, it isn't yet clear
+- Even after the split brain procedure, some functions appear to be unified (e.g., spatial orienting, attention).
+- Language comprehension seems to occur in both hemispheres, **language production only on the left**.
+- The left hemisphere seems to be involved in complex thought, reasoning and planning, the right seems to be more immediate and direct.
+- The left hemisphere may be tuned for higher spatial frequencies (local), while the right may be tuned for lower spatial frequencies (global).

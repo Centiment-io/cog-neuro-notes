@@ -1,0 +1,78 @@
+###Lecture 6
+
+####Tomography
+- Passive measurement
+	- 2D measurement difficult to represent brain (which is in 3D)
+- Active measurement
+	- Infer by change in color from the transmitter to the sensor what the total amount of oxygenated versus deoxygenated blood
+
+####Ambiguity of EEG oscillatory signals
+- Not localized
+
+####A good video on MRI
+http://tinyurl.com/lqw5m6a
+
+####Measuring proton spins
+- **Static field**: large stationary magnet aligns protons align B0 field
+- **Excitation field**: Radio frequency XYZ coils briefly tilts protons off B0 axis
+- **Acquisition**: Receiver coil measures time it takes protons to realign with B0
+
+####MRI
+- MRI signals are measures in the Fourier domain and must be converted to the image domain
+- Different signals can be used for image contract
+- fMRI measurement are in 3D
+- Cortical folding reflects functional relationships
+
+####Source of the BOLD signal
+- Deoxy-haemoglobin
+	- Paramagnetic
+	- Low MR signal
+- Oxy-haemoglobin
+	- Diamagnetic
+	- Normal MR signal
+- Activation: Increase in
+	- Blood flow & volume
+	- Oxyhemoglobin
+	- MR signal
+
+####Summary on source of the Bold signal
+- The ferrous iron on the heme of deoxyhemoglobin is paramagnetic, so it acts as a contrast agent
+- When red blood cells containing deoxyHb are placed in a magnetic field they distort it, and this can be detected as a change in magnetic signal
+- Greater deoxyHb decreases MR signal because greater local inhomogeneity in the magnetic field causes the hydrogen nuclei to spin at different frequencies (spin dephasing, and leads to faster decay of MR signals
+
+**FMRI does not measure neural activity!**
+
+####Astrocyte as a recycling system
+Astrocyte absorbs neurotransmitter, with a higher threshold so neurotransmitter binds first to the postsynaptic neuron. Once enough neurotransmitters accumulate, then they are absorbed by the astrocyte.
+
+	Inhibitory synapses are closer to the soma so they have more weight than excitatory synapses.
+	
+####BOLD signals reflect tuning in astrocytes
+- When neurons fire, they release neurotransmitter
+- Astrocytes respond to neurotransmitters 
+- The neuron has a higher potential when it is closer to its preferred orientation
+- Astrocytes are more highly tuned than neurons because they are less responsive to excitation (as they have a higher threshold of neurotransmitters to absorb)
+
+####Limitations of fMRI
+- Indirect
+- Coarse/Sparse
+- Blood vessels
+- Slow
+
+**Linear coupling is wrong!**
+
+---
+
+- Many fMRI experiments use functional localizers
+- Statistical parametric maps
+	- Under SPM we use t-statistical maps to identify significantly activated regions, then we examine the time course of the response in each region relative to the experimental manipulation
+	- Averaging to localize
+- Other fMRI methods: 
+	- fMRI Adaptation
+	- Multi-Voxel Pattern Analysis (linear classifiers)
+	- Representational Similarity Analysis (RSA)
+	- Resting State Data (Functional Connectivity)
+
+####Brains are highly variable
+- Anatomical alignment is a problem
+- One possible solution is functional alignment

@@ -1,0 +1,67 @@
+###Lecture 9
+
+####The eye
+- Evolution is stupid: photoreceptors are pointing in the wrong direction
+- Light passes through the ganglion cells, middle layer and bounces to the back of the eye
+- Wavelength sensitivity of cones and rods
+	- Rods: 495 nm
+	- Cones
+		- Red: 560 nm
+		- Green: 530 nm
+		- Blue: 430 nm
+
+####Both eyes project to both hemispheres
+- Optic chiasm: Where information crosses to the other side 
+	- left visual field from left eye to the right side
+	- right visual field from right eye to the left side
+
+####The Lateral Geniculate Nucleus of the thalamus is a key waystation for visual information
+- The signals from each eye are segregated within the LGN and go into different ocular dominance columns within area V1, **layer 4**
+
+####Primary visual cortex contains a retinotopic map
+- Half of the visual cortex is representing just the middle of the visual field
+- The other half for the other parts of the visual field (periphery)
+- Vision is best at the fovea
+
+####Gabor wavelets describe natural images
+- Gabor functions more efficient than pixels
+
+####V1 neurons are tuned for orientation
+- V1 neurons can be modeled as Gabor functions
+- Visual system is optimized to process natural scenes
+
+####Human V1 can be modeled as motion-energy filters
+- Roughly moving Gabor functions
+- Simple cell neurons prefer static stimuli
+- Other prefer moving stimuli
+	- Speed
+	- Direction
+- Complex cells are composed of simple cells
+	- These don't care about phase
+- Predictions of the motion-energy model
+
+####Each voxel must represent many dimensions
+- Features represented within area V1:
+	- X position
+	- Y position
+	- Eye of origin
+	- Wavelength
+	- Orientation
+	- Direction
+	- Spatial frequency: size
+	- ...
+
+####Systematic changes across the hierarchy
+- Dozens of distinct areas
+- Areas arranged in a hierarchical, parallel network
+- Transformations between areas are nonlinear
+- Areas contain systematic, high-dimensional maps
+- Each area represents different visual information
+- Receptive field size increases by a factor of ~4 at each stage
+- Across the visual hierarchy, neurons become selective for more complex image features, and combinations of image features
+- Across the hierarchy responses become more invariant for incidental features of the image:
+	- lighting
+	- contrast
+	- spatial position
+	- retinal size
+	- (possibly) viewpoint

@@ -1,0 +1,125 @@
+##Lecture 3
+	Page 60 and 62-67 not anymore required, just 61 (blood flow)
+	
+###Subcortical systems (Telencephelon)
+
+####Basal Ganglia (motor control)
+- Caudate nucleus
+- Substantia nigra
+- Amygdala
+- 
+####Limbic System (emotion, memory)
+
+- Cingulate cortex
+	- Part of limbic system
+- Hippocampus
+	- Memory and navigation
+- Mammilary bodies
+	- Part of limbic system & involved in circadian
+	- rhythms
+- Olfactory bulb
+	- Smell
+
+
+- Thalamus
+	- Major way station for processing motor and sensory information
+	- Medial geniculate nucleus
+		- Major way station for audition information going into the brain
+	- Lateral geniculate nucleus
+		- Major way station for visual information going into the brain
+- Hypothalamus
+	- Endocrine system
+- Brain stem
+	- Pineal body
+	- Superior colliculus
+	- Inferior colliculus
+- Cerebellum
+	- Reflexive activity, posture control, timing
+
+####Central and peripheral nervous system
+- Central nervous system
+- Peripheral nervous system
+	- Parasympathetic branch (Norepinephrine)
+	- Sympathetic branch (Acetylcholine)
+- The cranial nerves
+	- Terminal
+	- Olfactory
+	- Optic
+	- Oculomotor
+	- Trochlear
+	- Trigeminal
+	- Adbucens
+	- Facial
+	- Vestibulocochlear
+	- Glossopharyngeal
+	- Vagus
+	- Accessory
+	- Hypoglossal
+- Blood supply (page 61)
+
+---
+
+####The neuron doctrine
+- The gross anatomy of the brain was well understood by 1850. However, it was not known whether this anatomy reflected a complex tangle of continuous wires, or some unknown scheme
+- Camilo Golgi (1873) developed a revolutionary staining method that revealed individual neurons. He believed that neurons were coupled directly
+- Ramon y Cajal (1888) carried out extensive microanatomical analysis and formulated the cell doctrine for neurons
+- Charles Sherrington (1897) developed the idea of specialized synapses that transmit signals from one neuron to another
+
+#####Neurons come in many shapes and sizes
+- Purkinjie
+- Granule
+- Motor
+- Pyramidal
+- Chandelier
+- Spindle
+- Stellate
+- Tripolar
+
+#####Cell body & dendrites of a vertebrate neuron
+- Dendrites have spines (little bumps)
+
+#####The resting pontential
+- An electrochemical equilibrium
+- The resting potential is about -60-70 mv
+
+-- | Sodium (Na^+) | Potassium (K^+) | Chloride (Cl^-)
+--- | --- | --- | ---
+Inside | Low | High | Low
+Outside | High | Low | High
+
+1. Open K^+ channels create the resting potential
+	- Open K^+ channel
+	- Closed Na^+ channel
+2. Some Na^+ channels open, depolarizing the cell to threshold
+	- Open Na^+ channel
+	- Closed K^+ channel
+3. At threshold, additional voltage-gated Na^+ channels open, causing a rapid change of polarity - the action potential
+4. Na^+ channels are inactivated; gated K^+ channels open, re-polarizing and even hyper-polarizing the cell (undershoot phase)
+	- Inactivated Na6+ channels
+	- Open K^+ channel
+5. All gated channels close. The cell returns to its resting potential
+
+---
+
+####Neuronal Circuits
+
+- Mammalian neocortex has ~6 layers of neurons (between 1-4mm)
+	- Superficial
+	- Upper
+	- Middle
+	- Deep
+- Cortex is also organized in columns
+- White mater makes connections between areas
+	- Several long tracts
+	- Short tracts
+	- Long projection fibers
+- Brain connections influence brain folding
+	- Wires act as springs pulling areas together to reduce length of wires
+	- During development they pull together
+		- Cortex at the two sides of a gyrus have similar tasks
+		- Cortex at opposite sides of sulcus probably don't have related tasks
+- Cortical input and output is systematic
+	- Layer for is the recipient layer (receives input from the thalamus)
+- The brain is hierarchical, parallel network
+
+

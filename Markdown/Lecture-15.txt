@@ -1,0 +1,53 @@
+###Lecture 15
+#####Motor System
+
+---
+
+###What features are represented in motor cortex
+- Fairly high-level structure
+- Several synapses between motor cortex and neurons innervating muscles
+- Thus, unlikely that motor cortex explicitly represents signals related to muscle contraction
+- It is **unknown** precisely what information is represented explicitly in motor cortex. Several possibilities proposed:
+	- End-to-end goal (location based code)
+	- Trajectory of movement
+	- Configural information over time
+	- Velocity information
+	- Kimenatic information more broadly
+		- e.g., trajectory, velocity & acceleration
+	- Feedback/control system signals
+
+###Neural coding of movement in motor cortex
+- Oldest, classical studies
+	- Monkey + motor task (joystick)
+	- Activity of single neurons in motor cortex is **correlated** with the direction of the intended movement
+
+###The population vector model of motor cortex
+- Average over the neurons to get indication of what direction you want to move
+- The aforementioned method is too basic, not enough flexibility
+- Motor cortex isn't just sending the 'already calculated motor command', it prepares using memory and other areas.
+
+###Motor neurons have complicated dynamical properties
+- Storage + execution phase
+- Target -> Preparatory activity -> Go -> Peri-movement activity (move)
+- Different neurons have different storage and execution responses
+- Planning and movement don't have to be consistent
+
+###The affordance competition hypothesis of movement control
+- The processes of action selection and motor planning occur simultaneously and evolve continuously across a hierarchical, parallel network
+
+###Population vectors vs affordance competition
+- Affordance competition model: the situation is more complex as it is happening all at once
+- Preparatory activity and action plans in dorsal premotor cortex
+- Spatial cues -> animal doesn't know which one so there are two populations firing for different locations
+- Memory period
+- Color cue -> increase in activity of only the cue color (intended motor action)
+- Go signal -> boooooom (actual motor action)
+
+###Corpus Callosum and Learning
+- Heavily connected (bigger) corpus callosum have better bimanual coordination
+
+###Cerebellum lesions affect learning
+- When you have a lesion in the cerebellum, you adapt slower or not adapt at all
+
+---
+

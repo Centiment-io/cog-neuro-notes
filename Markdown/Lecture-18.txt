@@ -1,0 +1,67 @@
+###Lecture 18
+
+---
+
+####The features of language
+#####Multi-scale representation of language
+- Sound pressure wave
+- Short-time frequency spectogram
+	- A representation that has both time and frequency in it
+- Phonemes & Articulatory features
+- Syntax
+	- Different parts of speech and what its order means (grammatical information)
+- Semantics
+	- Meaning
+- Narrative
+
+#####Sound pressure waveforms and spectrograms
+- 
+
+#####Phonetic (articulatory) features: What you say
+- IPA: all the possible sounds that humans can make
+
+#####Phonemic
+- A subset of the phonetic features
+- Some languages don't distinguish between l and r (asians?)
+
+#####Syntactic (grammatical) features
+
+#####Box models of production & comprehension
+
+####Brain areas involved in language
+- Auditory nerve
+- Cochlear nuclei
+- Superior olivary nucleus
+- Inferior colliculus
+- Medial geniculate nucleus of the thalamus
+- Primary auditory cortex
+
+#####The language system
+- Broca's area
+- Supramarginal gurys
+- Angular gyrus
+- Wernicke's area
+- Superior temporal gyrus
+- Inferior frontal cortex
+
+####Brain lesions affecting language
+- Global aphasia: fluent, severe perception and production deficits
+- Broca's aphasia: fluent, speech output impaired, writing impaired, comprehension less affected
+- Wernicke's aphasia: non-fluent, comprehension problems, reading impaired, spontaneous speech may be fluent (at least for articulation and prosody), grammar is preserved
+- Anomia: non-fluent, deficit in naming and word finding, excellent comprehension and semantics
+- Conduction aphasia (auditory cortex); non-fluent, auditory short term memory problem, reading deficit may bot be repesent
+- Echolalia (auditory cortex): non-fluent
+
+#####Broca's aphasia
+- Production aphasia: patients know what they are trying to say, but they can't say it
+- Broca's area
+	- Pars opercularis
+	- Pars triangularis
+
+#####Wernicke's aphasia
+- Sensory aphasia: patients don't know what they are trying to say and can't comprehend language
+
+#####Lichtheim's (1880s) view of language processing
+
+####Brain representation of spectral features
+

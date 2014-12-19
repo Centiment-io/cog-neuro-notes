@@ -1,0 +1,116 @@
+###Chapter 5
+#####Sensation and Perception
+
+---
+
+- Perception begins with a stimulus from the environment which stimulates one of the sense organs.
+- This input is transduced into neural activity by the sense organ and sent to the brain for processing
+- Sensation refers to the early processing
+- Percept: mental representation of the original stimulus
+- Perception: the process of constructing a percept
+- Senses: physiological capacities to provide input from the environment to out neurological system
+- Extensive interaction takes place between the sensory modalities much earlier in the processing pathways than the  previously imagined
+
+####Shared Processing from Acquisition to Anatomy
+- Each system begins with some sort of anatomical structure for collecting, filtering, and amplifying information from the environment
+- Each system has specialized receptor cells that transduce the environmental stimulus into neural signals
+- The olfactory nerve is a bit rogue. It is the shortest cranial nerve and follows a different course. It terminates in the olfactory bulb, and axons extending from here course directly to the primary and secondary olfactory cortices without going through the brainstem or thalamus
+
+####Receptors Share Responses to Stimuli
+- Range
+- Adaptation: the adjusting of the sensitivity of the sensory system to the current environment and to important changes in the environment.
+- Acuity: how good we are at distinguishing among stimuli within a sensory modality
+	- If a sensory system devotes more receptors to certain types of information, there is a corresponding increase in cortical representation of that information
+
+####Connective Similarities
+- Visual: Lateral Geniculate Nucleus
+- Auditory: Medial Geniculate Nucleus
+- Somatic: Ventral posterior nuclear complex
+- Gustatory: Ventral posteromedial nucleus
+- Not only there are projections from these nuclei to the cortex, but the thalamic nuclei are interconnected, providing an opportunity for **multisensory integration**
+
+####Audition
+- Signal transduction from sound wave to neuronal signal begins at the **eardrums**
+- Sound waves disturb the **hair cells**
+- The **mechanical input** is transformed into a neural output at the **cochlea**
+- Signals are processed in the **hair cells** and basilar membrane of the **cochlea**
+- The **cochlea** sends its information un the form of neuronal signals to the **inferior colliculus** and the **cochlear nucleus**
+- Information travels to the **medial geniculate nucleus** of the **thalamus** and on to the **primary auditory cortex**
+- Neurons throughout the auditory pathway maintain their **tonotopic** arrangement as they travel up to the cortex, but the tight organization is less apparent in the auditory cortices A1 and A2 when viewed with high-resolution methods
+- Sound localization is aided by the processing of differences in interaural time and interaural sound intensity, which are each coded separately in the brain
+
+####Olfaction
+- Signal transduction from odorant to neuronal signal begins when the **odorant** attaches to an **odor receptor** in the **olfactory epithelium**
+- The signal is then sent to the **olfactory bulb** through the **olfactory nerve**, which projects to the **primary olfactory cortex** (pyriform), located at the ventral junction of the frontal and temporal cortices
+- Signals are also relaxed to the **orbitofrontal cortex**, a secondary olfactory processing area
+- **Primary olfactory cortex**: detects changes in external odor
+- **Secondary olfactory cortex**: identifies the smell itself
+- We use our two nostrils to obtain different olfactory samples, varying the rate of airflow through each nostril and thus altering the rate of absorption
+- The olfactory pathway is the only sensory pathway that does not send information to the thalamus
+
+####Gustation
+- Gustation and olfaction are known together as the **chemical senses** because the initial response is to molecules (chemicals) in the environment
+- Five basic tastes: salty, sour, bitter, sweet, and umami
+- Perception of more complex tastes arises from the complex cortical processing of these individual tastes in areas of the brain such as the **secondary gustatory cortex** in the **orbitofrontal region**
+- Signal transduction is initiated when a **taste cell** in the mouth responds to a **tastant** by depolarizing and sends a signal to the **gustatory nucleus**in the **dorsal medulla**
+- From there, a signal zips to the **ventral posterior medial (VPM) nucleus** of the **thalamus**
+- The VPM synapses with the primary gustatory cortex found in the **operculum** and **insula**
+- The **primary gustatory cortex** connects with the **secondary processing areas** found in the **orbitofrontal cortex**
+- The **orbitofrontal cortex**: involved in processing the reward value of food and the resulting motivation to eat food
+
+####Somatosensation
+- **Corpuscles** located in the skin respond to somatosensory touch information
+- **Nociceptors** (free nerve endings) respond to pain and temperature information
+- Nerve cells at the junctions of muscles and tendons provide **proprioceptive** information
+- Primary somatosensory cortex (S1) contains a **homunculus** of the body, wherein the more sensitive regions encompass relative larger areas of the cortex
+- Somatosensory representations exhibit **plasticity**, showing variation in extend and organization as a function of individual experience
+
+####Vision
+- Light activates the photoreceptors, the rods and cones, on the retina
+- The optic nerve is formed from the axons of the ganglion cells, some of which decussate at the optic chiasm
+- Axons in the optic nerve synapse on the LGN, and from the LGN become the optic radiations that are sent to V1
+- Ten percent of the fibers from the retina innervate non-LGN subcortical structures, including the pulvinar and superior colliculus
+
+#####Retinotopic Maps
+- Receptive field of a cell: visual neurons respond only to a stimulus that is presented in a specific region of space
+- Visual cells form an orderly mapping between spatial location and the neural representation of that dimension
+- In vision, these topographic representations are referred to as **retinotopic maps**
+
+#####Cortical Visual Areas
+- The visual cortex is made up of many distinct regions
+- These regions are defined by their distinct, retinotopic maps
+- Visual areas have functional differences that reflect the types of computations performed by cells within the areas
+- For instance, V4 is sensitive to color and V5 to motion
+- Humans also have visual areas that do not correspond to any region in our close primate relatives
+
+#####From Sensation to Perception
+- Our percepts are more closely related to activity in higher visual areas than to activity in primary visual cortex
+- Anatomical differences among people in the size of V1 affect the extent of visual illusion
+
+#####Deficits in Visual Perception
+- Superior colliculus lesions impair the ability of an animal to orient toward the position of a stimulus (important for spatial orientation)
+- Visual cortex lesions impair visual acuity (important for object identification)
+- Achromatopsia: inability to perceive color
+	- Lesions to areas in and around human V4
+	- Also important for shape perception; color is one attribute that facilitates shape perception
+- Akinetopsia: inability to process motion
+	- Lesions to area V5 (human MT)
+	- As with many neurological conditions, the deficit can be quite subtle for unilateral lesions
+
+---
+
+####Multimodal Processing in the Brain
+- Some areas of the brain, such as the **superior colliculus** and **superior temporal sulci**, process information from more than one sensory modality, integrating the multimodal information to increase the sensitivity and accuracy of perception
+- When multisensory information is presented coincidently in time and space, the multisensory neural response is enhanced
+- The reverse is also true; when multisensory information is not presented coincidently in time and space, the multisensory neural response is depressed
+
+####Synesthesia
+- People with synesthesia experience a mixing of the senses
+	- e.g., colores hearing, colores graphemes, or colored taste
+- Synesthesia is associated with both abnormal activation patterns in functional imaging studies and abnormal patterns of connectivity in structural imaging studies
+
+####Perceptual Reorganization
+- Following sensory deprivation, the function of sensory regions of the cortex may become reorganized, or exhibit what is called plasticity
+- For instance, in blind individuals, areas of the brain that are usually involved in visual function may become part of the somatosensory cortex
+- Plasticity can also be observed in healthy individuals if they are deprived of information from one sensory modality for even relatively short period of time
+

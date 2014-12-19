@@ -1,0 +1,52 @@
+###Lecture 1
+
+---
+
+####What is cognitive neuroscience?
+
+A new(ish) area of science that aims to understand how thought (cognition) emerges from the brain (neuroscience).
+
+This is a hard problem.
+
+####What questions do we ask in CN?
+- How does brain activity lead to behavior?
+- How should the brain be divided **anatomically**?
+- How should the brain be divided **functionally**?
+- How does the brain compute?
+- How does the brain represent information?
+- How does your brain function as a **dynamical system**?
+- How does your brain change during attention and learning?
+- How does your brain function change during injury or disease?
+- How can we decode the brain, or insert new information?
+
+---
+
+	The brain is difficult to access
+	It is hard to measure brain activity
+	Principles of brain function are mysterious
+	
+---
+
+####Historial questions about brain function
+- Is the brain somehow special or different from all other organs in the body?
+- Is intellect, memory and sensation located in the heart, the ventricles of the brain? or in the brain matter itself?
+- What are the functional differences between the gross anatomical divisions of the brain?
+- Is cortex divided into separate component parts or is it just one huge bowl of murky soup?
+
+####Origins of CN
+- Babylonian and Egyptian physicians made detailed observations of various neurological and psychiatric conditions.
+- Babylonians distinguished between various types of epilepsy
+- However, they thought epilepsy was caused by demonic possession
+- Egyptians understood that brain injury could cause loss of function far from site of injury or on the opposite site of the body
+- They understood contre-coup injuries
+- However, they thought that the heart was the seat of intellect  
+
+		Check: Geoff Hinton: Back propagation learning rule
+		
+####Current controversies in CN
+- Which cognitive functions are localized versus distributed?
+- Does each brain area carry out only a single function, or can one area perform multiple functions?
+- Can cognitive functions be decomposed into constituent subunits, or do the subunits interact?
+- What do large-scale brain correlations tell us about function?
+- How does attention and learning change brain organization and function
+- How misleading are current

@@ -1,0 +1,75 @@
+###Lecture 24
+
+---
+
+####Correlations w/PCC seed during resting fixation
+- **Default Mode Network (DMN)**: is a network of brain regions that are active when the individual is not focused on the outside world and the brain is at wakeful rest
+- fMRI BOLD signals: because BOLD is measuring blood flow, then correlation may be influenced by the fact that they share blood supply
+
+####Resting state and the default mode network
+- Meta-analysis of PET data during resting state 132 participants
+- Not-susceptible to blood flow
+- Temporal-parietal junction (TPJ) + PFC //elaborate
+	- Components
+		- Medial temporal lobe: memory
+		- Medial prefrontal cortex: theory of mind
+		- Posterior cingulate cortex: integration
+		- Adjacent ventral precuneus and the medial lateral and inferior parietal cortex
+
+####Regions associated with the default network
+- vMPFC
+- PCC/Rsp
+- IPL
+- LTC
+- dMPFC
+- HF+
+
+####Different sorts of 'resting' states
+- Normal wakefulness
+- Hypnotic state
+- Anesthesia
+
+####People with autism show more default network activity
+
+####Resting state and patient populations
+- VS/UWS: vegetative state / unresponsive wakefulness syndrome
+- Locked-in syndrome patient: has default network
+
+####The default network and task-related decreases in BOLD
+- Resting state correlations in Bold
+- Task-related decreases in BOLD
+- Really slow (.1 Hz)
+
+####People who daydream show more default network activity
+
+####The default network appears to be activated in some sorts of behavioral and cognitive tasks
+- Autobiographical memory
+- Theory of mind
+	- Predict the mental state of others
+- Envisioning the future
+- Moral decision making
+
+####Narrative comprehension & semantic selectivity
+- Regions of the brain that are more selective for semantic concepts in this task (passive listening) happens to correlate quite highly with the default network
+- PFC, LP, Posterior Precuneus
+- All of the above encompass the DMN
+- Overlap between semantic and default network
+
+####Semantic tuning shifts during visual search
+- Two principal components: humans and vehicles
+- Red: shifting toward target
+- Blue: shifting away from target
+	- Regions of the cortex identified in DMN
+
+####DMN: inner speech?
+Resting state network consists of regions of the brain that 
+These regions of cortex in the DMN tend to be deactivated when doing a visual spatial attention task
+Default areas overlap with the semantic network and are the parts that show more semantic selectivity when doing a story attention task (and also internal speech)
+
+####The default network as a collection of subnets
+- The medial temporal lobe subsystems **provides** 
+	- information from prior experiences in the form of memories and 
+	- associations that are the building blocks of mental simulation
+- The medial prefrontal subsystem **facilitates** the flexible use of this information during the construction of self-relevant mental simulations
+- These two subsystems **converge** on important nodes of integration including the posterior cingulate cortex
+- The default network may be involved in exploiting past experiences to plan for the future, navigating social interactions, and ruminating when not performing tasks

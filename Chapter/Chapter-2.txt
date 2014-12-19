@@ -1,0 +1,100 @@
+###Chapter 2
+
+####The Structure of Neurons
+- Neurons and glial cells make up the nervous system.
+- Neurons are the cells that transmit information throughout the nervous system. Most neurons consist of a cell soma (body), axon, and dendrites.
+- Neurons communicate with other neurons and cells at specialized structures called synapses, where chemical and electrical signals can be conveyed between neurons.
+
+---
+
+####Neuronal Signaling
+- The presynaptic cell is located before the synapse and the postsynaptic cell after the synapse with respect to information flow
+- The resting membrane potential is the difference in the voltage across the neuronal membrane during rest (i.e., not during any phase of the action potential).
+- The electrical gradient results from the asymmetrical distribution of ions across the membrane. The electrical difference across the membrane is the basis of resting potential.
+- Ion channels are formed by transmembrane proteins that create passageways through which ions can flow.
+- Ion channels can be either passive (always open) or gated (open only in the presence of electrical, chemical, or physical stimuli).
+- Passive current conduction is called electrotonic/decremental conduction. 
+- A depolarizing current makes the inside of the cell more positive and therefore more likely to generate an action potential.
+- A hyperpolarizing current makes the inside of the cell less positive and therefore less likely to generate an action potential.
+- Action potentials are an all-or-none phenomena: The amplitude of the action potential does not depend on the size of the triggering depolarization, as long as that depolarization reaches threshold for initiating the action potential.
+- Voltage-gated channels are of prime importance in generating an action potential because they open and close according to the membrane potential.
+- Myelin allows for the rapid transmission of action potentials down an axon.
+- Nodes of Ranvier are the spaces between sheaths of myelin where voltage-gated Na^+ and K^+ channels are located and action potentials occur.
+
+---
+
+####Synaptic Transmission
+- Synapses are the locations where one neuron can transfer information to another neuron or specialized non-neuronal cell. They are found on dendrites and at axon terminals but can also be found on the neuronal cell body.
+- Chemical transmission results in the release of neurotransmitters from the presynaptic neuron and the binding of those neurotransmitters on the postsynaptic neuron, which in turn causes excitatory  or inhibitory postsynaptic potentials (EPSPs or IPSPs), depending on the properties of the postsynaptic receptor.
+- Classes of neurotransmitters include amino acids, biogenic amines, and neuropeptides.
+- Neurotransmitters must be removed from the receptor after binding. This removal can be accomplished by
+	- Active reuptake back into the presynaptic terminal
+	- Enzymatic breakdown of the transmitter in the synaptic cleft
+	- Diffusion of the neurotransmitter away from the region of the synapse
+- Electrical synapses are different than chemical synapses as they operate by passing current directly from one neuron (presynaptic) to another neuron (postsynaptic) via specialized channels in gap junctions that connect the cytoplasm of one cell directly to the other.
+
+---
+
+####The Role of Glial Cells
+- An astrocyte is a type of glial cell that helps form the blood-brain barrier.
+- Astrocytes have an active role in modulating neural activity.
+- Glial cells aid in the speed of information transfer by forming myelin around the axons of the neurons.
+- An oligodendrocyte is a type of glial cell that forms myelin in the central nervous system.
+- A Schwann cell is a type of glial cell that forms myelin in the peripheral nervous system.
+- As part of the immune response of the nervous system, microglial cells are phagocytic cells that engulf damaged cells.
+
+---
+
+####Overview of Nervous System Structure
+- The **central nervous system** consists of the brain and spinal cord.
+- The **peripheral nervous system** consists of all nerves and neurons outside of the central nervous system.
+- The **autonomic nervous system** is involved in controlling the action of smooth muscles, the heart, and various glands. It is composed of two systems:
+	- The **sympathetic system** uses the neurotransmitter norepinephrine. It increases heart rate, diverts blood from the digestive tract to the somatic musculature, and prepares the body for flight-or-flight responses by stimulating the adrenal glands.
+	- The **parasympathetic system** uses acetylcholine as a neurotransmitter. It is responsible for decreasing heart rate and stimulating digestion.
+- Groups of neurons are called **ganglia**.
+- The **cerebral cortex** is a continuous sheet of layered neurons in each hemisphere.
+- The axons of cortical neurons and subcortical ganglia travel together in white matter tracts that interconnect neurons in different parts of the brain and spinal cord.
+	- **Association tracts**: within a hemisphere
+	- **Commissures**: across hemispheres
+	- **Projection tracts**: cerebral cortex to deeper subcortical structures or spinal cord
+- The **corpus callosum** is the main fiber tract that connects the two hemispheres of the brain.
+
+---
+
+####The Brainstem
+- Composed of the Medulla, Pons, Cerebellum, and Midbrain.
+- The spinal cord conducts the final motor signals to the muscles, and it relays sensory information from the body's peripheral receptors to the brain.
+- The brainstem's neurons carry out many sensory and motor processes, including visuomotor, auditory, and vestibular functions as well as sensation and motor control of the face, mouth, throat, respiratory system, and heart.
+- The brainstem houses fibers that pass from the cortex to the spinal cord and cerebellum, and sensory fibers that run from spinal levels to the thalamus and then to the cortex.
+- Many neurochemical systems have nuclei in the brainstem that project widely to the cerebral cortex, limbic system, thalamus, and hypothalamus.
+- The cerebellum integrates information about the body and motor command and modifies motor outflow to effect smooth, coordinated movements.
+
+---
+
+####The Diencephalon: Thalamus and Hypothalamus
+- The thalamus is the relay station for almost all sensory information.
+- The hypothalamus is important for the autonomic nervous system and endocrine system. It controls function necessary for the maintenance of homeostasis. It is also involved in control of the pituitary gland.
+- The pituitary gland releases hormones into the bloodstream where they can circulate to influence other tissues and organs (e.g., gonads).
+
+---
+
+####The Telencephalon
+- Limbic System, Basal Ganglia and Cerebral Cortex
+- The limbic system includes subcortical and cortical structures that are interconnected and play a role in emotion.
+- The basal ganglia are involved in a variety of crucial brain functions, including action selection, action gating, reward-based learning, motor preparation, timing, task switching, and more.
+
+---
+
+####The Cerebral Cortex
+- Gyri are the protruding areas seen on the surface of the cortex
+- Sulci (or fissures) are the enfolded regions of the cortex
+- Brodmann divided the brain into distinct regions based on the underlying cytoarchitectonics.
+- The lobes of the brain include the frontal, parietal, temporal, and occipital lobes.
+- The frontal lobe is for planning, cognitive control, and execution of movements.
+- The parietal lobe receives sensory input about touch, pain, temperature, and limb position, and it is involved in coding space and coordinating actions.
+- The temporal lobe contains auditory, visual, and multimodal processing areas.
+- The occipital lobe processes visual information.
+- The limbic lobe (not really a lobe) is involved in emotional processing, learning, and memory.
+- Topography is the principle that the anatomical organization of the body is reflected in the cortical representation of the body, both in the sensory and motor cortex.
+- Association cortices are those regions of cortex outside the sensory specific and motor cortical regions. They receive and integrate input from multiple sensory modalities.
+

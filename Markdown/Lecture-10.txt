@@ -1,0 +1,81 @@
+###Lecture 10
+
+####Visual areas can be grouped into "what and "where" streams"
+- **Dorsal** [Parietal stream]: Where? 
+	- Motion
+	- Spatial relationships
+- **Ventral** [Inferotemporal stream]: What? 
+	- Form
+	- Color
+
+####Ventral stream areas at different levels of the hierarchy are thought to have different functions
+	Luminance edges to Semantic categories
+1. Retina
+2. Thalamus (LGN)
+3. Intermediate Visual Areas
+	- V1, V2, V3, V4
+	- Lateral Occipital Cortex
+4. FFA (Fusiform Face Area)
+5. EBA (Extrastriate Body Area) and PPA (Parahippocampal Place Area)
+
+####Receptive field size grows across the visual hierarchy
+- The further in the visual processing processes, the receptive fields cross each other and converge into a non lateralized representation
+
+####Complexity of preferred shapes from across the visual hierarchy
+- Neurons in intermediate visual aras prefer shapes of intermediate complexity
+
+####Possible features that might be represented in intermediate human visual areas
+1. Synthetic naturalistic movie (15Hz)
+2. Ground truth
+	- Object silhouettes
+	- Surface normals
+	- Depth
+3. Feature spaces
+	- Silhouette contours
+	- Orientation discontinuities
+	- Depth discontinuities
+	- Medial axes
+4. Discretize feature space into feature channels
+	- Degree of curvature
+	- Orientation
+	- Location, scale
+5. Complessive output nonlinearity (log)
+6. Temporal downsample (15 to 1 Hz)
+
+####The object silhouette model is best in V4/LO
+- The object model is a semantic model (doesn't know about the shape)
+- V4 likes the object silhouette, less the scene contours
+- V4 likes the scene contour, less the object silhouette
+- **V4 Image segmentation and grouping!**
+
+####Neurons in inferior temporal cortex are selective for complex shape
+- Selectivity for Faces and Persons
+	- Orientation
+	- View point
+	- Posture
+	- Direction of gaze
+
+####Neurons in inferior temporal cortex are selective for complex shape
+- Shape selective columns and slabs
+- Sketchy
+- Type 4 result: we want it to be true but we don't have enough evidence
+
+####Higher-order human visual areas are selective for complex semantic categories
+
+####A semantic category model for high-level vision
+- Wordnet (1980s) by George Miller
+- Hand-drawn tree of the isorelationships between all the nouns in the English language
+- Indicator matrix
+- Regression to find out how does the voxel response changes on the presence of a specific object
+
+####Predictions of the motion-energy versus the semantic category models
+- Motion-energy model predicts lower-order visual systems
+- Semantic category model predicts higher-order visual systems
+- Principal component analysis: http://en.wikipedia.org/wiki/Principal_component_analysis
+
+####Object and action category maps
+- **Blue**: indoor scenes
+- **Pink**: vehicles and lots of motion
+- **Red**: movement
+- **Green**: People
+- **Yellow**: animals

@@ -1,0 +1,43 @@
+###Lecture 26
+
+####Decoding dreams
+- fMRI activity pattern before awakening
+- Machine learning decoder assisted by lexical and image databases
+- Awakening index: different epics in which participants were waken up
+- Every time a participant is waken up, they describe their dream
+- For every possible semantic concept
+	- True positive: not dreaming about a concept but I thought you were
+	- False positive
+	- Hit
+	- Miss
+- Cognitive and systems neuroscience: brain areas specialized to represent certain types of information
+- AUC: accuracy
+- Functional areas
+	- PPA: Parahippocampal place area = Scenes
+	- FFA: Fusiform face area = Humans
+- Consistent with what you would expect with other studies when awake
+- Provides way to determine if there is a systematic relationship between brain structures active when dreaming and description of dreaming
+- How far back in time can we accurately predict what they were dreaming about compared to reported dreaming
+
+####Limitations of motor BMI
+- We don't know the true feature space
+	- Train on actual movement
+- Neurons adapt/change across days
+
+####Dimensionalities for experiments
+- Neural activity 85-91D
+- Intrinsic manifold: 10D
+- Kinematics: 2D
+
+---
+
+####A brain-machine interface for memory
+- Ted Berger
+	- First hippocampus decoder
+- Nonlinear MIMO model
+	- Multi input multi output
+
+####How good your decoder
+- How well you can measure
+- How well you can model
+- how fast

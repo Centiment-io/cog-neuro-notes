@@ -1,0 +1,63 @@
+###Lecture 4
+- Overview of methods
+- Neuroanatomy and Neurology
+- Neurophysiology & optogenetics
+- EEG, MEG and ECOG
+- PET
+- fMRI and fNIRS
+- TMS
+- Behavior
+
+---
+
+####Methods for recording brain activity
+
+####Neuroanatomy
+- Advantages
+	- Clearly centrally important
+	- Provides very rich data
+	- Many different measures possible
+- Disadvantages
+	- No functional information (just structure)
+	- Spotty/partial coverage
+	- Large individual variability
+	- Few noninvasive methods
+
+####Neurology
+- Advantages
+	- Unique data source
+	- "Natural lesion experiments"
+	- Data from humans
+- Disadvantages
+	- "Experiment" is uncontrolled
+	- Lesions may affect multiple areas
+	- Difficult to interpret results
+	- Difficult to generalize
+
+#####Brain injuries have many different causes
+- Stroke
+- Glioma (tumors to myelin)
+- Meningioma (tumors of meninges)
+- Tumor
+- Alzheimers
+
+####Neurophysiology
+	Utah array: 10x10 silicon electrodes
+- Advantages
+	- Clearly centrally important
+	- Relatively easy to interpret
+	- Many options for measurement
+- Disadvantages
+	- Small sample size
+	- limited recording time
+	- Usually limited to animal studies
+
+####Optogenetics
+- Advantages
+	- Directly affects neuronal activity
+	- Affects specific identified neurons
+	- Also permits neuronal recording
+- Disadvantages
+	- Still a bit difficult/complicated
+	- Not all neuron types accessible
+	- **Only available in animal models**

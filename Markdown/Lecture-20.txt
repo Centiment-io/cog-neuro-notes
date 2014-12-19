@@ -1,0 +1,72 @@
+###Lecture 20
+
+####Semantic ROIs from a functional localizer
+- Subtract non-word from word activation
+
+####Human semantic brain areas
+- People have worked on semantics for the 100 years
+- Prefrontal cortex (dorsal and ventral)
+- Temporal lobe
+
+####Representation of phonemic, syntactic & semantic features
+- Problem: too much data
+- Data compression: Principal components analysis
+	- Simplex method of doing dimensionality reduction
+	- Take eigenvalues and eigenvectors of a matrix
+	- Reconstruct lower-rank matrix from eigenvalues
+	- Trick: gives you a bunch of eigenvectors that are orthogonal to each other
+		- Orthonormal space
+	- Some matrices are not compressible at all
+
+####Subjects share ~5 semantic dimensions
+- Y: amount of variance
+- X: principle component number
+
+####Words projected onto group PCs
+- Low-dimensional component space
+- Space that mediates between feature space (huge) and voxels across all of the brains
+- Space that your brain uses to organize the world
+
+####The first PC. concepts that increase BOLD
+- Red: high loading of this word
+- Neutral (Blue) activity: less activation
+- Animacy vs. inanimacy
+
+####Voxels projected onto group semantic PCs
+- Red: PC1
+- Green: PC2
+- Blue: PC3
+
+---
+
+####Semantic areas in individual brains
+- Looking at multiple subjects is a problem because brains vary
+- Minor sulci are variable among individuals
+- Some gyri only exists in 10% of the people
+- Brain size correlates to body size
+
+####Semantic areas in individual brains
+- Localizer task: words and non-words
+- Subtract them
+- Temporal cortex
+
+####Cross-subject volumetric alignment
+- MNI: averaged brain crated by averaging a fuckload of brains
+	- Sheer, scale, rotate
+- One brain
+- Reference brain to MNI brain
+- Data loss!
+
+####Cross-subject surface alignment
+- Extract grey matter
+- Inflate brain: brain-shaped ball
+
+####PrAGMATiC
+- Probabilistic and Generative Model of Areas Tiling Cortex
+- Ball and spring model
+- Pin springs to anatomy 
+	- Major anatomical landmarks (optimal)
+	- Functional localizers (the one Jack used)
+- Algorithm choose areas to maximize predictions
+- Remove functional areas that have no significant relationship to semantic information
+- 77 individual semantically functional areas on the left size and 64 on the right

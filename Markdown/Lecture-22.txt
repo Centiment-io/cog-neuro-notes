@@ -1,0 +1,78 @@
+####Functional subdivisions of PFC
+- Lateral prefrontal cortex
+- Frontal pole
+- Premotor areas
+- Primary motor areas
+- Ventromedial prefrontal cortex
+- Medial frontal cortex
+- Orbito frontal cortex
+- Posterior cingulate gyrus?
+
+####Functions of regions of frontal cortex
+- Lateral prefrontal:
+	- Cognitive control
+	- Short-term memory
+	- Inhibition of response selection
+	- Selective attention
+- Frontal pole
+	- Cognitive control
+	- Memory retrieval
+	- Representation of action goals
+- Medial prefrontal
+	- Cognitive control
+	- Error detection
+		- Feedback on actions
+	- Resolving conflict
+
+####The size of prefrontal cortex across species
+- All mammals have a PFC
+- Proportion of brain that is devoted to PFC varies across mammals
+
+---
+
+####Effects of bilateral lesions of prefrontal cortex
+- Prefrontal lesions cause behavior to be relatively more stimulus-driven. Information that is out of sight is not used. Goal-oriented behavior is lost.
+- Unilateral lesions cause mild deficits. Common behaviors seem relatively normal. Subtle effects include perseveration, inflexibility in behavior, some deficits in working memory, forgetfulness.
+- Bilateral lesions cause severe deficits in free recall memory and goal-oriented behavior (sequencing of subtasks), loss of motivation (i.e., loss of "ego"), lack of care or concern about future outcomes, poor impulse control, and over-reliance on immediate rewards and discounting of future rewards.
+
+####Prefrontal lesions cause memory deficits
+- During list recall prefrontal patients do not show a benefit for related versus unrelated lists (Hirst & Volpe 1988). This suggests a failure to make use of intrinsic semantic organization. This deficit can be overcome by explicit instruction to exploit semantic organization.
+- During list recall prefrontal patients are susceptible to cross-list interference (Gershberg & Shimamura, 1985) and show deficits in recalling temporal order.
+- more
+
+####Prefrontal lesions cause metacognitive deficits
+- Poor awareness of memory deficits and poor metacognitive strategies 
+- Check lecture slides
+
+####Prefrontal deficits may reflect...
+- Poor use of memory encoding and retrieval strategies (metacognition)
+- Source monitoring errors during encoding and retrieval (source, space and time)
+- Working memory impairments
+- Poor motivation
+- Language deficits, particularly with left prefrontal lesions
+
+####Goal-oriented behavior and working memory
+- Focus on most salient thing
+- No acknowledgement of consequences
+
+####Sustained neural activity in the PFC
+- It seems unlikely that this sustained activity reflects long-term memory directly, because PFC patients don't have deficits in LTM
+
+####MPFC and attentional control of working memory
+
+####PFC as a working memory buffer & link to LTM
+- Location:Parietal
+- Color: Temporo-occipital
+- Shape: Inferotemporal
+- Both activation and inhibition
+
+####Does selection reflect activation or inhibition?
+- Evoked N1 (100ms after cue) responses to auditory clicks are **stronger** in PFC patients (failure of inhibition of irrelevant stimuli?), but **weaker** in temporal-parietal patients
+
+---
+
+####PFC and error prediction and error detection
+
+
+
+

@@ -1,0 +1,62 @@
+###Lecture-16
+
+---
+
+####A brain-machine interface (BMI)
+- Closed-loop system for taking brain activity and driving some sort of computer directly using brain activity
+- Training using actual motor activity to correlate brain activity to it
+- What brain structure to record from
+- Andy Schwartz (CMU)
+
+####Limitations of motor BMI
+- Two big limitations
+	- Electrodes don't last forever because they are not biocompatible (gliosis)
+	- Neurons adapt/change across days
+- Sadtler, Quick. Golub, Shase, Ryu, Tyler-Kabara, Yu & Batista, Nature, 2014
+
+---
+
+####Varieties of memory
+- Assumed stages of memory processing
+	- Encoding
+	- Storage
+	- Retrieval
+- Memory
+	- Sensory, short-term, working memory
+		- Central executive
+		- Visuospatial sketch pad
+		- Phonological loop
+	- Long-term memory
+		- Declarative memory (explicit) -> Knowledge
+			- Events (episodic memory)
+				- Specific personal experiences from a particular time and place
+			- Facts (semantic memory)
+				- World knowledge, object knowledge, language knowledge, conceptual priming
+		- Non-declarative memory (implicit) -> Experience
+			- Procedural memory
+				- Skills (motor and cognitive)
+			- Perceptual representation system
+				- Perceptual priming
+			- Classical conditioning
+				- Conditioned responses between two stimuli
+			- Non-associative learning
+				- Habituation, sensitization
+
+####Medial temporal lobe system
+- Fornix
+- Anterior thalmic nucleus
+- Mamillary body
+- Medial prefrontal cortex
+- Medial temporal lobe
+- Hippocampus
+- Perirhinal cortex
+- Entorhinal cortex
+
+####Connections to hippocampus
+- Neocortical association areas
+- Parahippocampal region
+- Hippocampus
+
+####Memory loss caused by cortical lesions
+- Cerebral cortex
+- Medial temporal lobe, hippocampus and surrounding structures

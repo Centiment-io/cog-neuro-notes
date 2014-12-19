@@ -1,0 +1,40 @@
+###Lecture 8
+
+####The auditory pathway
+- Auditory nerve
+- Cochlear nuclei
+- Superior olivary nucleus
+- Inferior colliculus
+- Medial geniculate nucleus of the thalamus
+- Primary auditory cortex
+
+####Primary visual cortex forms a retinotopic map
+- Retinotopic map in macaque C1 using radioactive trace (Tootel et al., 1988)
+
+####MRI can recover retinotopic maps
+- Retinotopic map in Human V1-V3 using functional MRI (Sereno et al., 1995)
+- Left visual field is represented in the right hemisphere and vice versa
+- Top visual field is represented in the bottom hemisphere and vice versa
+
+####Other maps in primary visual cortex
+- Ocular dominance map
+- Orientation map
+- Spatial Frequency
+	- Size
+- Wavelength
+	- Color
+- Temporal frequency
+	- How fast
+- Direction
+
+####Single neurons reflect their position in maps
+
+####Many dimensions are coded at each position
+- Layer 4: input layer
+	- Segregated by eye
+- Hypercolumn
+- Blobs: columns selective by color
+	- Low spatial frequency: big things
+- Orientation columns surround blobs
+
+####Maps are organized both globally and locally

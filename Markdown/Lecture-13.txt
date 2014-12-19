@@ -1,0 +1,61 @@
+###Lecture-13
+
+####Attention as a system for routing information
+- On a short time scale the wiring of the brain is fixed
+- Therefore, any changes in cognitive state must be accomplished by changing the information that is represented in various brain areas, by changing the way that information is routed and pooled across the brain
+- Local mechanisms that could alter circuit properties
+	- Fast modulation of synaptic weights
+	- Use of feedback circuits to change feedforward weights
+	- Use of control lines to change feedforward weights
+	- Some other mysterious dynamical feedforward weights
+- Global mechanisms that could alter circuit properties
+	- Oscillations
+	- Cortico-thalamic circuits that modulate cortico-cortical circuits
+
+####Gain changes at one level would change tuning at subsequent levels
+- The higher in the hierarchy, the broader the orientation tuning
+- That's why retinotopy goes away
+- In attention, attentional modulation tends to be best explained by some sort of multiplicative effect acting in the neuron
+- V4 is early visual area
+- Dorsal: V2 -> V3 -> MT/MST
+- Ventral: V2 -> V4 (gain changes) -> Some area in infra-temporal cortex
+- Labelled line
+	- Classical field doesn't change
+	- Non-classical field may increase or decrease firing
+
+####Attentional modulation accumulates across the area hierarchy
+- They all pool depending on attention
+- Some for color, orientation, spatial frequency, texture (fine vs coarse)
+- Attention **modulates** what to process or what to ignore (neuronal tuning)
+	- What relevant features to take into consideration for the particular task
+
+---
+
+####Attentional Modulation of Brain Representations
+#####Matched filter theory
+- Your brain when doing a detection task tries to match for the particular stimuli
+- When looking for your cat, your brain becomes a **giant cat detector**
+	- Tuning up (more sensitive) for features relevant to **fluffy** (cat)
+- Amount of shift depends on level of hierarchy
+
+#####Default system
+- Area of the brain active when you are instructed to stop thinking about something
+
+---
+
+####Computational circuit-level models of attention
+#####Saliency map model
+- Information aggregated from all feature maps from all visual areas
+- Multi-scale low-level feature extraction
+	- Colors
+	- Intensity
+	- Orienation
+	- Other
+		- Motion, junctions and terminators, stereo disparity, shape and shading, etc
+
+#####The shifter circuit
+- 15*15px resolution no matter window size
+- Zooming into space
+
+#####Characteristics of semantic maps
+- Semantic information in movies is represented in a low-dimensional semantic space that is common across different observers

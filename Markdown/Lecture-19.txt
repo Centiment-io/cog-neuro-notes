@@ -1,0 +1,51 @@
+###Lecture 19
+
+---
+
+####Stimulus pre-processing
+- Each story is transcribed
+- Special sounds marked
+	- Breath
+	- Laughter
+	- Lip smack
+
+####Speech and text are aligned, and the phones and words are extracted and tagged
+
+####Vowel-wise modeling of narrative stories
+- Stories + brain activity
+- Estimate our models: project stories into different feature spaces
+- Use regression
+
+####Time scales of linguistic features
+- Language is multi-scale phenomena
+- Down-sampling of semantic features
+	- Lose some information
+
+####Syntactic and semantic features from NLP
+- Co-variances of words in a text
+- Use repeated structures: 'I was ____'
+- Words that appear together: eyes, skull
+
+####Syntactic model (HHMM)
+- Probabilistic
+
+####Semantic model (English 1000, ~LSA)
+- Project English 1000 into the covariance states
+
+####Representation of spectral, articulatory and semantic features
+- Spectral, articulatory/phoneme and semantic model
+
+####Semantic ROIs from a functional localizer
+- Meaningful vs non-meaningful words
+- Statistical threshold, subtraction
+
+####PCA: principal component analysis
+- Get the eigenvectors and turn the full rank eigenvector matrix into a low rank
+	- By getting the first couple of eigenvectors
+- Align eigenvectors of different people and see what is common
+
+MNI coordinates: Montreal Neurological Institute
+
+####Semantic representation on the cortex: summary
+- Binder, Desai, Graves & Conant, 2009
+- Binder, Desai, Trends in Cog. Sci., 2011
